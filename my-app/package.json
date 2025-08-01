@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "cli": "^1.0.1",
     "next": "^15.4.5",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "vercel": "^44.6.6"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
